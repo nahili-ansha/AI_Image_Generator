@@ -75,7 +75,7 @@ This project is an AI-powered image generator application built using Python. Th
   - Go to the https://beta.openai.com/signup/, sign up, and log in to your account.
   - Navigate to the API section and generate your API key.
     
-2. **Set your API key in the code (Recommended: set API key as an Environment Variable):**
+2. **Set your API key in the code (Recommended: Set API key as an Environment Variable):**
 
   - Open the main.py file in your preferred code editor.
     
