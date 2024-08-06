@@ -9,7 +9,7 @@ import requests,io # To get the image from the url
 
 # Generate button functionality
 def generate():
-    openai.api_key =  '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'
+    openai.api_key =  'Your API Key'
     user_prompt = prompt_entry.get("0.0", tkinter.END)
     user_prompt += "in style: " + style_dropdown.get()
 
