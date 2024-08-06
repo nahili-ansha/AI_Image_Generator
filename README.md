@@ -48,7 +48,7 @@ This project is an AI-powered image generator application built using Python. Th
    
      **On macOS/Linux:**
    
-       source book/bin/activate
+       source image/bin/activate
 
 3. **Install OpenAI:**
    
