@@ -82,7 +82,7 @@ This project is an AI-powered image generator application built using Python. Th
         openai.api_key = 'your_api_key_here'
 
 ## Project Structure
-**main.py**: The main script containing the code for the Book Recommendation System.
+**main.py**: The main script containing the code
 
 ## Usage
 python main.py
