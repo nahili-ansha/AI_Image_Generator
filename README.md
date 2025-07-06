@@ -3,6 +3,9 @@
 ## Description
 This project is an AI-powered image generator application built using Python. The application leverages the OpenAI (DALL-E 2) API to generate images based on user prompts and specific styles, offering an intuitive and interactive user interface created with the customtkinter library.
 
+![Demo](https://github.com/nahili-ansha/AI_Image_Generator/blob/main/AI_Image.png
+)
+
 ## Features
 - **User Prompt Input:** Users can enter a text prompt describing the desired image.
 - **Style Selection:** Users can choose from various styles such as Realistic, Dusk, Crayon, Cartoon, Hand Drawn, 3D Illustration, and Flat Art.
